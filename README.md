@@ -251,7 +251,7 @@ The project successfully:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Employee-Attrition-Prediction.git
+git clone https://github.com/Loukik9999/Employee-Attrition-Prediction.git
 ```
 
 ## Navigate
