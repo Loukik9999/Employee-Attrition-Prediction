@@ -297,8 +297,3 @@ Run the notebooks in the following order:
 
 Data Science & Machine Learning Enthusiast
 
----
-
-# License
-
-This project is licensed under the MIT License.
